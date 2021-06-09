@@ -1,1 +1,6 @@
 **/__pycache__
+# Adding IDE files
+.vscode
+*.iml
+.idea
+idea
